@@ -1,1 +1,8 @@
-# Product_Card
+# Product Card Design
+
+## Live Demo
+Link [here](https://yaseenaminm.github.io/Product_Card/)
+
+## Screenshots
+
+![App Screenshot](https://uc01da9e6b3acda37be06fcea7ac.previews.dropboxusercontent.com/p/thumb/ACNgaqsfUww8TVNCGniRcMfbPBKjnUFD8Ly-Ss_wbhR9AoGdnxsDb7GPZ7ltgaT4q2CNzhaswlEYGVFgmP81ThlFCLSLzv9C6ZDq2srnpioa6a2Izjf0KL9Mx9C_dNHNaZDCCJsryW4YMobYZ854rLk1-lofS8Y7DL3CXkyfPP1OoeSqi7IpSZaSzrrjFj9k2cnype3IqY_DP9qC9Bta2-dPedl8hrLAnf2dgyRTVatAvwfySIbg40Soc2iEN-iCp9DbTujHmTtQc7tB3Jv-XO2bI25HY0io8xmcwO1w2K0NULK_a2rXryuU9S2xlOzymoTIqh7DveFHnqUaMwLYNeDTF5IPdhds-RHYirDtXy060Hmvj3lS6RNPkjTwNYSc8U4/p.png)
